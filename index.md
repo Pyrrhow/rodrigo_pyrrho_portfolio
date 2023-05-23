@@ -1,9 +1,13 @@
 ---
 layout: home
 permalink: /
-title: Athena Jekyll Theme
+title: |-
+  Rodrigo Pyrrho Nascimento
+  Portfolio
 
 ---
-A simple and elegant theme for Jekyll and GitHub Pages.
-teste
+Obcecado por Análise de Dados e Desenvolvimento de Jogos com um portfólio impressionante. Profissional autodidata com mais de 4 anos de experiência proporcionando experiências inesquecíveis aos clientes, ao mesmo tempo em que tento manter uma dependência por aprender e melhorar.
+
+![2023-05-02-937896.png](https://pyrrhow.github.io/rodrigo_pyrrho_portfolio/assets/2023-05-02-937896.png)
+
 
